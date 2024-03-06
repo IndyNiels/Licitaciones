@@ -1,3 +1,9 @@
+# Europe
+
+## Tutorial pagina TED Busqueda
+
+https://www.loom.com/share/09c51529086d47a89fd007e945b543fe
+
 # France
 
 ### Tutorial FRANCIA Búsqueda
@@ -39,3 +45,11 @@ https://www.loom.com/share/6668d1cff23b475182a882bcfc531f42?sid=d5daf195-ce36-49
 | 48400000-2 | Paquetes de software de transacciones comerciales y personales                            |
 | 73220000   | Servicios de consultoría en desarrollo                                                    |
 | 75130000   | Servicios de apoyo a los poderes públicos                                                 |
+
+### Mots de recherches.
+
+Stationement
+
+## Parametres.
+
+Objets du marchés
